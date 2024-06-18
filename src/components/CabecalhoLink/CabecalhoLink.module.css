@@ -1,0 +1,14 @@
+.link{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 1.3rem;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #FFF;
+    transition: .2s;
+}
+.link:hover{
+    color: #2271D1;
+}
+
