@@ -1,0 +1,20 @@
+.botao{
+    width: 170px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    color: var(--branco);
+    background-color: var(--preto);
+    border-radius: 15px;
+    border: 2px solid var(--branco);
+    cursor: pointer;
+    transition: all 300ms ease-out;
+}
+.botao:hover{
+    border: none;
+    color: var(--azul-claro);
+    box-shadow: -1px 2px 15px 4px  rgba(55, 99, 211, 0.812);
+
+}

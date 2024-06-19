@@ -3,12 +3,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 1.1em 5em;
-    background-color: #262626;
+    background-color: var(--preto);
 }
 
 @media (max-width: 744px) {
     .cabecalho {
         height: 72px;
-        padding: 1rem;
+        /* padding: 1rem; */
     }
 }

@@ -1,11 +1,14 @@
-/* :root{
-  --fonte: 
-  --cinza-escuro: red;
-} */
+:root{
+  --fonte-Open: "Open Sans", sans-serif;
+  --azul-claro: #6BD1FF;
+  --branco: #F5F5F5;
+  --preto: #000000;
+}
 
 body {
   margin: 0;
-  /* font-family: ; */
+  background-color: var(--preto);
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
