@@ -1,26 +1,30 @@
 [
     {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
+        "id": "0",
+        "titulo": "Tudo sobre front end",
         "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+        "categoria": "Front End"
     },
     {
-        "id": 2,
-        "titulo": "",
-        "capa": "https://",
-        "link": "https://"
+        "id": "1",
+        "titulo": "back end",
+        "capa": "https://w7.pngwing.com/pngs/744/473/png-transparent-cat-kitten-baby-mammal-animals-cat-like-mammal-thumbnail.png",
+        "link": "https://www.youtube/embed/sbzznZLsJLE",
+        "categoria": "Back End"
     },
     {
-        "id": 3,
-        "titulo": "",
-        "capa": "https://",
-        "link": "https://"
+        "id": "2",
+        "titulo": "mobile",
+        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+        "categoria": "Mobile"
     },
     {
-        "id": 4,
-        "titulo": "",
-        "capa": "https://",
-        "link": "https://"
+        "id": "3",
+        "titulo": "inovação",
+        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+        "categoria": "Inovação"
     }
 ]

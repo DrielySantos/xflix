@@ -1,0 +1,47 @@
+.categoria {
+    display: flex;
+    flex-direction: column;
+    width: 1040px;
+    margin: 0 0 0 55px;
+  
+}
+
+.categoria .titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 70px;
+    font-size: 32px;
+    font-weight: 800;
+    border-radius: 15px;
+    color: var(--branco);
+    background-color: var(--azul-claro);
+}
+
+.listaCard{
+    width: 90%;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 0 0 20px 0;
+}
+
+.listaCard::-webkit-scrollbar { 
+    width: 1px;
+    background-color: #2a2a2a;
+}
+
+.listaCard::-webkit-scrollbar-thumb{
+    background-color: rgba(8, 121, 226, 0.804);
+    border-radius: 10px;
+    width: 4px;
+}
+
+.listaCard::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.scrollContainer{
+    display: flex;
+    gap: 15px; 
+  }

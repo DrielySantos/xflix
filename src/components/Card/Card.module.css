@@ -1,0 +1,28 @@
+.card {
+    width: 320px;
+    height: 260px;
+    background-color: var(--preto);
+    border-radius: 15px;
+    border: 5px solid rgba(55, 99, 211, 0.812);
+}
+
+.card .capa{
+    width: 100%;
+    height: 85%;
+}
+
+.card .config{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card .button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--branco);
+    cursor: pointer;
+}
